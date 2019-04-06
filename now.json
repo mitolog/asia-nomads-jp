@@ -1,6 +1,7 @@
 {
   "name": "asia-nomads-jp",
   "version": 2,
+  "regions": ["hnd1"],
   "builds": [
     { "src": "bin/www", "use": "@now/node" },
     { "src": "**/*.js", "use": "@now/node" },
